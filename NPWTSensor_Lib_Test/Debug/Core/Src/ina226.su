@@ -1,0 +1,4 @@
+../Core/Src/ina226.c:9:22:Ina226_Software_Reset	32	static
+../Core/Src/ina226.c:23:22:Ina226_Init	40	static
+../Core/Src/ina226.c:61:10:INA226_Get_VBus_Voltage	32	static
+../Core/Src/ina226.c:85:5:INA226_Get_Current	32	static
